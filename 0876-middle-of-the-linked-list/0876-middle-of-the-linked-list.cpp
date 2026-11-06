@@ -17,7 +17,6 @@ public:
             count++;
             temp=temp->next;
         }
-        temp=head;
 
         count=count/2;
         int i=0;
