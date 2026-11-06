@@ -19,8 +19,7 @@ public:
         }
 
         count=count/2;
-        int i=0;
-        for( i;i<count;i++){
+        for( count;count>0;count--){
             head=head->next;
 
         }
